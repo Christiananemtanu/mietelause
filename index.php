@@ -7,9 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-    echo "May the Force be with you";
-    echo date("d.m.Y");
-    ?>
+
+    <h1> <?php echo "May the Force be with you"; ?> </h1>
 </body>
 </html>
+
+echo date("d.m.Y");
