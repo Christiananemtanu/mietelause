@@ -7,8 +7,6 @@
     <title>PHP - May the Force be with you</title>
 </head>
 <body>
-    <h1> <?php echo "May the Force be with you";?> </h1>
+    <h1> <?php echo 'May the Force be with you';?> </h1>
 </body>
 </html>
-
-echo date("d.m.Y");
